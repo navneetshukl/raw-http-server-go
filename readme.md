@@ -103,14 +103,7 @@ The server handles HTTP requests by:
   - Content-Type: `text/plain`
   - Returns the requested path information
 
-## Project Structure
 
-```
-.
-├── main.go          # Main server implementation
-├── README.md        # This file
-└── index.html       # HTML file served for root/index paths (if applicable)
-```
 
 ## Error Handling
 
