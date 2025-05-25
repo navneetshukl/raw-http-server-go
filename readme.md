@@ -82,7 +82,7 @@ The server implements a simple HTTP server with the following components:
 
 - `main()`: Sets up the server listener and accepts incoming connections
 - `handleMultipleConnection()`: Processes individual HTTP requests and generates responses
-- `loadHTML()`: Loads and serves HTML content (function referenced but not shown in provided code)
+- `loadHTML()`: Loads and serves HTML content 
 
 ### HTTP Request Handling
 
